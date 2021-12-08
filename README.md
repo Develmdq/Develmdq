@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there i'm Eduardo 👋
+![programmer](https://user-images.githubusercontent.com/62628508/145297301-12f2147d-290d-4b06-b37a-9bbfb66162c0.gif)
 
-<!--
-**Develmdq/Develmdq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### One step at a time !!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: https://www.linkedin.com/in/eduardo-marcet-57235a67/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+![Develmdq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Develmdq&show_icons=true&theme=radical)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Develmdq)](https://github.com/Develmdq/github-readme-stats)
+
+
