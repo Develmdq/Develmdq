@@ -1,3 +1,5 @@
+<img width="1536" height="500" alt="cc-bg-1" src="https://github.com/user-attachments/assets/5e534ca5-925c-4c97-b940-6bc48187428f" />
+
 # Eduardo Marcet
 
 ### Desarrollador COBOL z/OS | IBM Mainframe
