@@ -4,9 +4,7 @@
 
 ### Desarrollador COBOL z/OS | IBM Mainframe
 
-Desarrollo aplicaciones en entorno **z/OS**, con foco en la creación de programas robustos y mantenibles. 
-
-Mi enfoque está en el uso de buenas prácticas como: 
+Mi enfoque está en el uso de buenas prácticas como:  
 ✔ Lógica estructurada.  
 ✔ Manejo de estados.  
 ✔ Rutina de manejo de errores.  
