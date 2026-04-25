@@ -6,7 +6,7 @@
 
 Mi enfoque está en el uso de buenas prácticas como:  
 
-✓ Lógica estructurada para que el flujo sea fácil de seguir.
+>✓ Lógica estructurada para que el flujo sea fácil de seguir.
 
 ✓ Manejo de estados para tener control total de lo que pasa en el programa.
 
@@ -40,9 +40,9 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Certificaciones IBM
 
-🎖 **IBM Mainframe Developer — Coursera
-🎖 **IBM z/OS Mainframe Practitioner — Coursera  
-🎖 **IBM Z Xplore All Star — Credly
+🎖 IBM Mainframe Developer — Coursera  
+🎖 IBM z/OS Mainframe Practitioner — Coursera  
+🎖 IBM Z Xplore All Star — Credly
 
 ---
 
