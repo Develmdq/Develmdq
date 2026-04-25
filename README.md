@@ -5,12 +5,13 @@
 ### Desarrollador COBOL z/OS | IBM Mainframe
 
 Mi enfoque está en el uso de buenas prácticas como:  
+
 ✔ Lógica estructurada.  
 ✔ Manejo de estados.  
 ✔ Rutina de manejo de errores.  
-✔ 
-✔
-✔
+✔ Documentación clara dentro del programa para facilitar el seguimiento de la lógica.
+✔ Validación exhaustiva de datos para evitar ABENDs innecesarios en producción.
+✔ Uso eficiente de recursos del sistema (CPU y memoria).
 
 ---
 
@@ -27,7 +28,7 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Repositorios destacados
 
-✔ [Gestión de Errores con DECLARATIVES](https://github.com/Develmdq/nombre-del-repo#readme)
+✔ [Gestión de Errores con DECLARATIVES](https://github.com/Develmdq/nombre-del-repo#readme)  
 ✔ [Lógica Batch y Manejo de Niveles 88](https://github.com/Develmdq/otro-repo#readme)
 
 ---
@@ -42,12 +43,8 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/eduardo-marcet-57235a67/) · cdcmdq@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eduardo-marcet-57235a67/) 
 
-![Develmdq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Develmdq&show_icons=true&theme=radical)
-
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Develmdq)](https://github.com/Develmdq/github-readme-stats)
+[Email](cdcmdq@gmail.com) 
 
 
