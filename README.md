@@ -6,12 +6,17 @@
 
 Mi enfoque está en el uso de buenas prácticas como:  
 
-✔ Lógica estructurada.  
-✔ Manejo de estados.  
-✔ Rutina de manejo de errores.  
-✔ Documentación clara dentro del programa para facilitar el seguimiento de la lógica.  
-✔ Validación exhaustiva de datos para evitar ABENDs innecesarios en producción.  
-✔ Uso eficiente de recursos del sistema (CPU y memoria).  
+✔ Lógica estructurada para que el flujo sea fácil de seguir.
+
+✔ Manejo de estados para tener control total de lo que pasa en el programa.
+
+✔ Rutinas de error que eviten caídas inesperadas.
+
+✔ Código limpio pensado para facilitar el mantenimiento a largo plazo.
+
+✔ Validación de datos para asegurar la integridad de la información.
+
+✔ Disciplina en los estándares de nombres y estructuras de la plataforma.
 
 ---
 
@@ -45,6 +50,6 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 [LinkedIn](https://www.linkedin.com/in/eduardo-marcet-57235a67/) 
 
-[Email] - cdcmdq@gmail.com
+cdcmdq@gmail.com
 
 
