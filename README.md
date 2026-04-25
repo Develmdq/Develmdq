@@ -8,15 +8,15 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 >✓ Lógica estructurada para que el flujo sea fácil de seguir.
 
-✓ Manejo de estados para tener control total de lo que pasa en el programa.
+>✓ Manejo de estados para tener control total de lo que pasa en el programa.
 
-✓ Rutinas de error que eviten caídas inesperadas.
+>✓ Rutinas de error que eviten caídas inesperadas.
 
-✓ Código limpio pensado para facilitar el mantenimiento a largo plazo.
+>✓ Código limpio pensado para facilitar el mantenimiento a largo plazo.
 
-✓ Validación de datos para asegurar la integridad de la información.
+>✓ Validación de datos para asegurar la integridad de la información.
 
-✓ Disciplina en los estándares de nombres y estructuras de la plataforma.
+>✓ Disciplina en los estándares de nombres y estructuras de la plataforma.
 
 ---
 
@@ -40,9 +40,9 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Certificaciones IBM
 
-🎖 IBM Mainframe Developer — Coursera  
-🎖 IBM z/OS Mainframe Practitioner — Coursera  
-🎖 IBM Z Xplore All Star — Credly
+&nbsp;&nbsp;&nbsp;🎖 `IBM Mainframe Developer — Coursera`  
+&nbsp;&nbsp;&nbsp;🎖 `IBM z/OS Mainframe Practitioner — Coursera`  
+&nbsp;&nbsp;&nbsp;🎖 `IBM Z Xplore All Star — Credly`
 
 ---
 
