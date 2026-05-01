@@ -33,7 +33,7 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Repositorios destacados
 
-» [Gestión de Errores con DECLARATIVES](https://github.com/Develmdq/nombre-del-repo#readme)  
+» [Gestión de Errores con DECLARATIVES](https://github.com/Develmdq/Manejo-Errores-Cobol/blob/main/README.md)  
 » [Lógica Batch y Manejo de Niveles 88](https://github.com/Develmdq/otro-repo#readme)
 
 ---
