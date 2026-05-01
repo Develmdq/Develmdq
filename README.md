@@ -33,7 +33,7 @@ Mi enfoque está en el uso de buenas prácticas como:
 
 ## Repositorios destacados
 
-» [RPTCLI01-Doble-Corte-DB2](https://github.com/Develmdq/RPTCLI01-Doble-Corte-DB2/blob/main/README.md).
+» [RPTCLI01-Doble-Corte-DB2](https://github.com/Develmdq/RPTCLI01-Doble-Corte-DB2/blob/main/README.md).  
 » [Gestión de Errores](https://github.com/Develmdq/Manejo-Errores-Cobol/blob/main/README.md) 
 
 ---
