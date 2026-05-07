@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
+<img width="1536" height="860" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
 
 # [Eduardo Marcet](https://edumarcet.netlify.app/)
 
