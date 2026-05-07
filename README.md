@@ -4,7 +4,7 @@
 
 ### Desarrollador COBOL z/OS | IBM Mainframe
 
-Mi enfoque está en el uso de buenas prácticas como:  
+Mi enfoque está en el uso de prácticas como:  
 
 >✓ Lógica estructurada para que el flujo sea fácil de seguir.
 
