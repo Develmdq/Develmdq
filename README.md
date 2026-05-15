@@ -1,4 +1,4 @@
-<img width="1536"  alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
+<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
 
 # [Eduardo Marcet](https://edumarcet.netlify.app/)
 
@@ -20,7 +20,7 @@ Mi enfoque está en el uso de prácticas como:
 
 ---
 
-## Stack principal
+## 🧰 Stack principal
 
 - **Lenguaje:** COBOL z/OS
 - **Control de trabajos:** JCL
@@ -33,15 +33,13 @@ Mi enfoque está en el uso de prácticas como:
 
 ## 🎓 Certificaciones
 
-| Certificado | Emisor | Enlace de Verificación |
 | :---: | :---: | :---: |
-|<img width="200" alt="Eduardo-José-Marcet-Certificado-Formación-COBOL" src="https://github.com/user-attachments/assets/c290f9d6-a9e3-4cdb-94f5-443343418e10" /> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
-| <img src="./images/cert-cics.png" width="200" alt="CICS Application Development"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
-| <img src="./images/cert-db2.png" width="200" alt="DB2 for z/OS Fundamentals"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
+|<img width="300" alt="Eduardo-José-Marcet-Certificado-Formación-COBOL" src="https://github.com/user-attachments/assets/c290f9d6-a9e3-4cdb-94f5-443343418e10" /> | <img width="300" height="1700" alt="Coursera-KPEHOANJGSBW (1)" src="https://github.com/user-attachments/assets/dd5ef672-c124-4b05-b73c-d89b5fe8bb97" /> | <img width="300" height="1700" alt="Coursera-KPEHOANJGSBW" src="https://github.com/user-attachments/assets/b0830070-9eaa-4024-b8af-bfc2af0b615e" /> |
 
 ---
 
-## Contacto
+
+## ✉️ Contacto
 
 [LinkedIn](https://www.linkedin.com/in/eduardo-marcet-57235a67/) 
 
