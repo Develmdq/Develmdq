@@ -37,7 +37,7 @@ Aquí puedes encontrar algunas de las certificaciones que he completado:
 
 | Certificado | Emisor | Enlace de Verificación |
 | :---: | :---: | :---: |
-| <img src="./images/cert-cobol.png" width="200" alt="Enterprise COBOL Mainframe"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
+|<img width="2667" height="1500" alt="Eduardo-José-Marcet-Certificado-Formación-COBOL" src="https://github.com/user-attachments/assets/c290f9d6-a9e3-4cdb-94f5-443343418e10" /> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
 | <img src="./images/cert-cics.png" width="200" alt="CICS Application Development"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
 | <img src="./images/cert-db2.png" width="200" alt="DB2 for z/OS Fundamentals"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
 
