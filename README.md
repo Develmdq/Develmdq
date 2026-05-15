@@ -32,8 +32,6 @@ Mi enfoque está en el uso de prácticas como:
 ---
 
 ## 🎓 Certificaciones
-| | | |
-| :---: | :---: | :---: |
 * 🏅 **Desarrollador COBOL Mainframe** | Formaciones Codeki - Facultad de Ciencias Económicas (UBA)
 * 🏅 **IBM Mainframe Developer** | IBM - Coursera
 * 🏅 **IBM z/OS Mainframe Practitioner** | IBM - Coursera
