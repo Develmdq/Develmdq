@@ -27,18 +27,11 @@ Mi enfoque está en el uso de prácticas como:
 - **Base de datos:** DB2 z/OS — SQL embebido
 - **Ficheros:** PS / KSDS
 - **Online:** CICS
-- **Herramientas:** TSO/ISPF · VS Code (Zowe · Zowe Explorer) · Endevor
+- **Herramientas:** TSO/ISPF · VS Code (Zowe · Zowe Explorer)    
 
 ---
+<img width="1650" height="1275" alt="Coursera A5QLW9BXNTH2_page-0001" src="https://github.com/user-attachments/assets/334c44d2-744c-4b07-8819-14ae8a402188" />
 
-## Repositorios destacados
-
-» [RPTCLI01-Doble-Corte-DB2](https://github.com/Develmdq/RPTCLI01-Doble-Corte-DB2/blob/main/README.md).  
-» [Gestión de Errores](https://github.com/Develmdq/Manejo-Errores-Cobol/blob/main/README.md) 
-
----
-
-## Certificaciones IBM
 
 &nbsp;&nbsp;&nbsp;🎖 `IBM Mainframe Developer — Coursera`  
 &nbsp;&nbsp;&nbsp;🎖 `IBM z/OS Mainframe Practitioner — Coursera`  
