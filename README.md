@@ -34,7 +34,10 @@ Mi enfoque está en el uso de prácticas como:
 ## 🎓 Certificaciones
 | | | |
 | :---: | :---: | :---: |
-|<img width="300" alt="Eduardo-José-Marcet-Certificado-Formación-COBOL" src="https://github.com/user-attachments/assets/c290f9d6-a9e3-4cdb-94f5-443343418e10" /> | <img width="300"  alt="Coursera-KPEHOANJGSBW (1)" src="https://github.com/user-attachments/assets/dd5ef672-c124-4b05-b73c-d89b5fe8bb97" /> | <img width="300" alt="Coursera-KPEHOANJGSBW" src="https://github.com/user-attachments/assets/b0830070-9eaa-4024-b8af-bfc2af0b615e" /> |
+* 🏅 **Desarrollador COBOL Mainframe** | Formaciones Codeki - Facultad de Ciencias Económicas (UBA)
+* 🏅 **IBM Mainframe Developer** | IBM - Coursera
+* 🏅 **IBM z/OS Mainframe Practitioner** | IBM - Coursera
+* 🏅 **IBM Z Xplore - All Star** | IBM Learning
 
 ---
 
