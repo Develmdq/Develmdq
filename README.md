@@ -1,4 +1,4 @@
-<img width="1536" height="860" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
 
 # [Eduardo Marcet](https://edumarcet.netlify.app/)
 
@@ -30,13 +30,6 @@ Mi enfoque está en el uso de prácticas como:
 - **Herramientas:** TSO/ISPF · VS Code (Zowe · Zowe Explorer)    
 
 ---
-<img width="1650" height="1275" alt="Coursera A5QLW9BXNTH2_page-0001" src="https://github.com/user-attachments/assets/334c44d2-744c-4b07-8819-14ae8a402188" />
-
-
-&nbsp;&nbsp;&nbsp;🎖 `IBM Mainframe Developer — Coursera`  
-&nbsp;&nbsp;&nbsp;🎖 `IBM z/OS Mainframe Practitioner — Coursera`  
-&nbsp;&nbsp;&nbsp;🎖 `IBM Z Xplore All Star — Credly`
-
 
 ## 🎓 Certificaciones
 
