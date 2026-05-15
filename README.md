@@ -37,6 +37,17 @@ Mi enfoque está en el uso de prácticas como:
 &nbsp;&nbsp;&nbsp;🎖 `IBM z/OS Mainframe Practitioner — Coursera`  
 &nbsp;&nbsp;&nbsp;🎖 `IBM Z Xplore All Star — Credly`
 
+
+## 🎓 Certificaciones
+
+Aquí puedes encontrar algunas de las certificaciones que he completado:
+
+| Certificado | Emisor | Enlace de Verificación |
+| :---: | :---: | :---: |
+| <img src="./images/cert-cobol.png" width="200" alt="Enterprise COBOL Mainframe"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
+| <img src="./images/cert-cics.png" width="200" alt="CICS Application Development"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
+| <img src="./images/cert-db2.png" width="200" alt="DB2 for z/OS Fundamentals"> | **IBM** | [Verificar Credencial ↗](https://www.credly.com/) |
+
 ---
 
 ## Contacto
