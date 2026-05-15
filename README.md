@@ -1,4 +1,4 @@
-<img width="1536" height="600" alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
+<img width="1536"  alt="Image" src="https://github.com/user-attachments/assets/df0f60ee-18cc-4fd6-bc83-076307e6367d" />
 
 # [Eduardo Marcet](https://edumarcet.netlify.app/)
 
@@ -32,8 +32,6 @@ Mi enfoque está en el uso de prácticas como:
 ---
 
 ## 🎓 Certificaciones
-
-Aquí puedes encontrar algunas de las certificaciones que he completado:
 
 | Certificado | Emisor | Enlace de Verificación |
 | :---: | :---: | :---: |
